@@ -2077,7 +2077,6 @@
 		BCBF9BA72AA0739A009035B7 /* VehiclesAndTransportDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VehiclesAndTransportDetailViewController.swift; sourceTree = "<group>"; };
 		BCBF9BA92AA0739A009035B7 /* VehiclesAndTransportDetailInteractor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VehiclesAndTransportDetailInteractor.swift; sourceTree = "<group>"; };
 		BCBF9BAB2AA0739A009035B7 /* VehiclesAndTransportDetailRouter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VehiclesAndTransportDetailRouter.swift; sourceTree = "<group>"; };
-		BCBF9BAE2AA0739A009035B7 /* AddReceiptContract.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddReceiptContract.swift; sourceTree = "<group>"; };
 		BCBF9BB02AA0739A009035B7 /* AddReceiptResponseModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddReceiptResponseModel.swift; sourceTree = "<group>"; };
 		BCBF9BB22AA0739A009035B7 /* AddReceiptPresenter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddReceiptPresenter.swift; sourceTree = "<group>"; };
 		BCBF9BB42AA0739A009035B7 /* AddReceiptViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddReceiptViewController.swift; sourceTree = "<group>"; };
@@ -6287,7 +6286,6 @@
 		BCBF9BAD2AA0739A009035B7 /* Contract */ = {
 			isa = PBXGroup;
 			children = (
-				BCBF9BAE2AA0739A009035B7 /* AddReceiptContract.swift */,
 			);
 			path = Contract;
 			sourceTree = "<group>";
